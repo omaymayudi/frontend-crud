@@ -1,4 +1,4 @@
-import UserFormEdit from "@/components/fragments/UserFormAdd";
+import UserFormEdit from "@/components/fragments/UserFormEdit";
 
 const UserEdit = () => {
   return (

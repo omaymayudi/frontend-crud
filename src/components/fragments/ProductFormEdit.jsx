@@ -17,7 +17,7 @@ const ProductFormEdit = () => {
         );
         setName(response.data.data.name);
         setPrice(response.data.data.price);
-        console.log("ini data: ", response.data.data);
+        // console.log("ini data: ", response.data.data);
       } catch (error) {
         if (error.response) {
           setMsg(error.response.data.msg);

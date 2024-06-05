@@ -7,7 +7,7 @@ import ProductEdit from "@/pages/ProductEdit";
 import ProductPage from "@/pages/ProductPage";
 import UserAdd from "@/pages/UserAdd";
 import UserEdit from "@/pages/UserEdit";
-import UserPage from "@/pages/HomePage";
+import UserPage from "@/pages/UserPage";
 import {
   createBrowserRouter,
   Route,
